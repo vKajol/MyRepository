@@ -20,7 +20,7 @@ using System.IO;
 namespace VibExchange.Controllers
 {
     /// <summary>
-    /// This is change to GitHub.
+    /// This is first change to github
     /// </summary>
     public class HomeController : Controller
     {
